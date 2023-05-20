@@ -1,6 +1,6 @@
 import pyautogui as py
 import time
-message= " AbhiRaj gand deta hai sabse bada gandi hai"
+message= "hi"
  
 cnt= 1
 
@@ -11,5 +11,5 @@ for i in range(1000):
     py.press('Enter')
     cnt = cnt+1
 
-py.typewrite("abhiraj ki gand ka price 5 paise hai")
+py.typewrite("hellow")
 py.press('Enter')
